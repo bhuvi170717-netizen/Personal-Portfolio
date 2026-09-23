@@ -798,7 +798,7 @@ export default function Home() {
             </p>
 
             <div className="contact-links">
-              <a href="bhuvi170717@gmail.com">EMAIL ↗</a>
+              <a href="mailto:bhuvi170717@gmail.com">EMAIL ↗</a>
               <a
                 href="https://github.com/bhuvi170717-netizen/"
                 target="_blank"
