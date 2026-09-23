@@ -807,7 +807,7 @@ export default function Home() {
                 GITHUB ↗
               </a>
               <a
-                href="www.linkedin.com/in/bhuvaneshd17/"
+                href="https://www.linkedin.com/in/bhuvaneshd17/"
                 target="_blank"
                 rel="noreferrer"
               >
