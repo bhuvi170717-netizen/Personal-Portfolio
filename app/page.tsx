@@ -798,16 +798,16 @@ export default function Home() {
             </p>
 
             <div className="contact-links">
-              <a href="mailto:your@email.com">EMAIL ↗</a>
+              <a href="bhuvi170717@gmail.com">EMAIL ↗</a>
               <a
-                href="https://github.com/"
+                href="https://github.com/bhuvi170717-netizen/"
                 target="_blank"
                 rel="noreferrer"
               >
                 GITHUB ↗
               </a>
               <a
-                href="https://www.linkedin.com/"
+                href="www.linkedin.com/in/bhuvaneshd17/"
                 target="_blank"
                 rel="noreferrer"
               >
